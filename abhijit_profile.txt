@@ -1,0 +1,151 @@
+# Personal Profile — Abhijit Waghmode
+
+## 1. Introduction
+
+My name is Abhijit Waghmode. I am a postgraduate student pursuing an M.Sc. in Statistics and Computing at DST-CIMS, Banaras Hindu University (BHU), Varanasi. I have a strong academic foundation in statistics and an interest in applying statistical methods, machine learning, and data analytics to solve real-world problems.
+
+I am continuously developing my programming, analytical, and problem-solving skills. My goal is to build a career in data science, machine learning, and artificial intelligence.
+
+## 2. Educational Background
+
+### M.Sc. Statistics and Computing
+- Institution: DST-CIMS, Banaras Hindu University, Varanasi
+- Status: First year
+- Academic period: 2025–Present
+
+### Bachelor of Science in Statistics
+- Institution: Sir Parshurambhau College, Pune
+- CGPA: 9.04
+
+My academic background has helped me develop an understanding of statistical inference, probability distributions, regression analysis, hypothesis testing, survival analysis, and statistical modeling.
+
+## 3. Technical Skills
+
+### Programming Languages
+- Python
+- R
+- SQL
+
+### Data Analysis and Visualization
+- Pandas
+- NumPy
+- Power BI
+- Looker Studio
+- Excel
+- PostgreSQL
+
+### Machine Learning
+- Regression and classification
+- Feature engineering and data preprocessing
+- Hyperparameter optimization
+- Genetic Algorithms
+- Model evaluation
+- SHAP-based model interpretation
+
+### Deep Learning and Generative AI
+- Neural network fundamentals
+- Neural Architecture Search (NAS)
+- Retrieval-Augmented Generation (RAG)
+- LangChain
+- Large Language Models (LLMs)
+- Vector databases and semantic search
+- Hugging Face embeddings
+
+I am continuing to learn and strengthen these skills through practical projects and experimentation.
+
+## 4. Machine Learning Projects
+
+### Project 1: Medical Insurance Cost Prediction
+
+This project focuses on predicting medical insurance charges using customer and health-related features, including age, sex, BMI, number of children, smoking status, and geographical region.
+
+The project involves exploratory data analysis, handling categorical variables, preprocessing numerical features, and training machine learning models.
+
+The target variable, insurance charges, is right-skewed, so log transformation was explored to reduce skewness and improve modeling behavior.
+
+I experimented with Random Forest optimization using Optuna and XGBoost optimization using a Genetic Algorithm.
+
+Reported model results include:
+- Random Forest: R² = 0.8773, RMSE = 4364.36, MAE = 2473.35.
+- XGBoost: R² ≈ 0.8781, RMSE ≈ 4350.28, MAE ≈ 2509.43.
+
+These results help compare the predictive performance of different models.
+
+### Project 2: Bank Customer Churn Prediction
+
+This project aims to identify customers who are likely to leave a bank. The dataset includes features such as credit score, age, tenure, account balance, number of products, credit card ownership, activity status, estimated salary, geography, and gender.
+
+The project includes data preprocessing, categorical encoding, feature scaling, class imbalance handling using SMOTE, and logistic regression modeling.
+
+I evaluated the model using a confusion matrix, precision, recall, and accuracy. I am interested in improving churn prediction with XGBoost, Optuna-based hyperparameter tuning, and SHAP for model interpretation.
+
+### Project 3: Survival Analysis Using ACTG320 Data
+
+This project explores survival analysis using the ACTG320 dataset, which contains information about treatment, survival time, censoring, CD4 count, age, and other patient characteristics.
+
+The planned analysis includes:
+- Kaplan–Meier survival estimation.
+- Log-rank tests for comparing survival curves.
+- Cox proportional hazards regression.
+- Hazard ratios and confidence intervals.
+- Testing the proportional hazards assumption.
+- Concordance index evaluation.
+- Exploring Random Survival Forest and XGBoost survival models.
+
+The purpose is to understand time-to-event outcomes and evaluate how patient characteristics and treatment relate to survival.
+
+## 5. Research Project: Hybrid Neural Architecture Search
+
+My research interest includes developing a Hybrid Neural Architecture Search (NAS) framework.
+
+The project explores the use of Genetic Algorithms to discover effective neural network architectures. Genetic Algorithm operations include selection, crossover, and mutation.
+
+The framework considers concepts such as weight inheritance, Lamarckian learning, and SynFlow-based evaluation. The research explores image classification using CIFAR-10 and text classification using datasets such as AG News and IMDB.
+
+The evaluation criteria include predictive accuracy, F1-score, inference latency, and parameter efficiency.
+
+I am particularly interested in combining evolutionary optimization with neural network training to find architectures that balance predictive performance and computational cost.
+
+## 6. Data Analytics Experience
+
+I participated in the Excelerate Data Visualization Associate Early Remote Internship, working on a data analytics and visualization project involving learner and opportunity datasets.
+
+The project involved PostgreSQL, data cleaning, joining datasets, handling missing and inconsistent values, and preparing data for visualization in Looker Studio.
+
+The dashboard explored learner sign-ups, completion, rewards, lead sources, and comparisons between the fourth quarter of 2025 and the first quarter of 2026.
+
+This experience helped me understand how raw datasets can be transformed into meaningful information for reporting and decision-making.
+
+## 7. Interests in Artificial Intelligence and RAG
+
+I am interested in learning how large language models can be combined with external knowledge sources to build useful AI applications.
+
+One of my learning goals is to develop a Retrieval-Augmented Generation (RAG) application using LangChain.
+
+A RAG application typically involves:
+1. Collecting documents that contain relevant information.
+2. Splitting documents into smaller chunks.
+3. Converting chunks into numerical representations called embeddings.
+4. Storing the embeddings in a vector database such as FAISS or Chroma.
+5. Retrieving relevant chunks when a user asks a question.
+6. Providing the retrieved context to an LLM to generate an answer grounded in the available documents.
+
+I want to build practical applications that can answer questions about personal documents, technical projects, academic notes, and other knowledge sources.
+
+## 8. Leadership and Extracurricular Activities
+
+I served as the captain of the DST-CIMS Kho-Kho team and participated in chess as a team player, with district-level representation. I also participated in Kho-Kho at the school district level.
+
+These activities have helped me develop teamwork, leadership, discipline, strategic thinking, and decision-making skills.
+
+## 9. Career Goals
+
+My career goal is to develop expertise in data science, machine learning, and artificial intelligence. I want to strengthen my statistical foundations while gaining practical experience in data engineering, predictive modeling, deep learning, and LLM-based applications.
+
+I aim to build projects that demonstrate both theoretical understanding and practical implementation skills. I am especially interested in combining statistical modeling, optimization algorithms, and modern AI techniques to solve real-world problems.
+
+## 10. Learning Approach
+
+I prefer learning technical concepts step by step, beginning with fundamental ideas and gradually moving toward implementation. I value understanding why a method works, how its assumptions affect the results, and how to interpret its output.
+
+I use practical programming exercises and projects to connect statistical theory with real-world applications. I am continuously expanding my knowledge of Python, R, SQL, machine learning, and generative AI.
